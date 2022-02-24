@@ -1,0 +1,38 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border:1px solid white;
+}
+.big-img{
+width:100%;
+}
+#start,#status{
+    font-size: 20px;
+}
+.copyright-footer{
+    margin:0px;
+    line-height: 5px;
+    letter-spacing:1px;
+    background:grey;
+    color:black;
+    height:30px
+}
+.img{
+    display:inline-block;
+    width:45%;
+}
+.modal-dilog{
+    width:90%;
+}
+video{
+    background: url("game_console.png");
+    background-size:cover;
+    background-position:center;
+    padding:25px;
+}
